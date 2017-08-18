@@ -12,6 +12,7 @@ L.GeneralDesc = 'Funciones generales que se puedan activados o desactivados como
 L.Locked = 'Bloquear posiciones de marcos'
 L.Fading = 'Activar efeitos de desaparición'
 L.TipCount = 'Mostrar recuento de objetos en tooltips'
+L.TipCountGuild = 'Muestra el recuento de objetos del gremio en las sugerencias'
 L.FlashFind = 'Activar Flash Find'
 L.EmptySlots = 'Mostrar un fondo para las ranuras de objetos vacías'
 L.DisplayBlizzard = 'Mostrar ventanas de Blizzard para bolsas desactivadas'

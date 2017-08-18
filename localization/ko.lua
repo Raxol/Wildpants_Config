@@ -11,6 +11,7 @@ L.GeneralDesc = '환경 설정에 따라 설정을 전환 할 수 있는 일반�
 L.Locked = '창 위치 잠금'
 L.Fading = '창 사라짐 효과 사용'
 L.TipCount = '아이템 갯수를 툴팁에 표시'
+L.TipCountGuild = '툴팁에 항목 수 표시'
 L.FlashFind = '빠른 찾기 사용'
 L.EmptySlots = '빈 칸 배경 표시'
 L.DisplayBlizzard = '숨겨진 가방을 보기 위해 블리자드 프레임을 표시합니다.'
